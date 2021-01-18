@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Android First app</string>
+    <string name="main_button">Main button</string>
+    <string name="secondary_button_left">Secondary Left</string>
+    <string name="secondary_button_right">Secondary Right</string>
 </resources>
